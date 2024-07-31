@@ -1,7 +1,7 @@
 name: Inga Analysis
 
 on: 
-  push:
+  push: #run always
 
 jobs:
   inga-analysis:
