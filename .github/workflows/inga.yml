@@ -1,6 +1,6 @@
 name: Inga Analysis
 
-on: [push]
+on: push
 
 jobs:
   inga-analysis:
